@@ -8,7 +8,8 @@ public class Person {
         this.height = newHeight;
     }
 
-    public void setWeight(int newWeight) {
+    public void setWeight(int newWeight)
+    {
         this.weight = newWeight;
     }
 
